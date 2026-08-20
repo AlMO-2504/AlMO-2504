@@ -1,7 +1,7 @@
-## Spongebob
+## Me page
 
-patrick
-sandy
+Hello
+I like to play Fortnite, sometimes, when I'm not busy, with work or other games. i feel bad when i don't play fortnite, like im missing out on something, i should be leveling up the battle pass, or i wont make back the vbucks i spent on it
 
 <!--
 **AlMO-2504/AlMO-2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
